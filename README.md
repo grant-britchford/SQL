@@ -31,6 +31,10 @@ www.skillable.com platform.
 - I also looked at which cities had a population that was greater than 2,000,000.
 <img width="628" height="355" alt="sqlPicture5" src="https://github.com/user-attachments/assets/54fe5a8e-2cc6-43d0-948b-acbdcc47d2a1" />
 
-
+### Task 2
+- For this task, I worked in a group of 4. The aim was to build a document that explained how and why to build a database for an organisation to use.
+- We took a query each and researched what to include. We then documented these steps for each process, including the thought behind each one.
+- When the document was finished, we had a 500-word essay describing the process and the advantages of the process.
+- The file can be found at the top of the page.
 
 
